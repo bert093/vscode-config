@@ -2,6 +2,11 @@
     <h1>VS Code Config</h4>
 </div>
 
+## 📷 Preview
+![Fullscreen](https://github.com/user-attachments/assets/6db6e132-5b98-4ce6-86f3-bb3029c6915d)
+![Windowed](https://github.com/user-attachments/assets/b952b1c7-7ab3-419c-ac30-ffbbdf57b229)
+![split editor](https://github.com/user-attachments/assets/b9585b46-e514-40a6-9c28-09ba1352ece5)
+<br></br>
 A minimal and personalized Visual Studio Code setup focusing on the settings.json file. This configuration enhances the developer experience with customized editor preferences designed for consistency, performance, and productivity.
 
 ## 📦 What's Inside?
