@@ -12,6 +12,16 @@ A minimal and personalized Visual Studio Code setup focusing on the settings.jso
 ## 📦 What's Inside?
 - ⚙️ settings.json – Tailored VS Code settings for an optimized development workflow
 
+## 🔌 Required Extensions
+To achieve the full visual and functional effect shown in the preview, please install the following extensions:
+1. 🪟 Glassit-VSC
+   Adds acrylic/glass-like transparency to the VS Code interface.
+2. 🎨 Custom UI Style
+   Allows injecting custom CSS for a highly stylized look.
+3. 🌀 VSCode Animations
+   Adds smooth animations for UI interactions and transitions.
+> ⚠️ Some extensions like Glassit-VSC and Custom UI Style require additional configuration and enabling custom CSS/JS. Make sure to follow their documentation carefully.
+
 ## 🎯 Purpose
 This repository serves as a portable, version-controlled configuration for Visual Studio Code. Perfect for syncing your environment across devices or sharing a trusted setup with teammates.
 
