@@ -1,0 +1,40 @@
+{
+    "workbench.colorTheme": "Anysphere Modern",
+    "animations.Install-Method": "Custom UI Style",
+    "glassit.alpha": 255, // Ctrl+Alt+Z, Ctrl+Alt+C
+    "workbench.iconTheme": "material-icon-theme",
+    "custom-ui-style.external.imports": [
+        "file:///c:/Users/Syahril/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
+    ],
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+
+    //* Important settings
+    // "window.zoomLevel": 0.5,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "window.menuBarVisibility": "compact",
+    "window.title": "${activeEditorShort}",
+
+    //* Left side
+    "workbench.activityBar.location": "hidden",
+
+    //* Bottom
+    "workbench.statusBar.visible": false,
+    "editor.fontFamily": "FiraCode Nerd Font, Hack Nerd Font, SauceCodePro Nerd Font, RobotoMono Nerd Font, JetBrainsMono Nerd Font",
+    "editor.stickyScroll.enabled": false,
+    "editor.formatOnPaste": true,
+    "redhat.telemetry.enabled": true,
+    "java.configuration.runtimes": [
+        {
+            "name":"JavaSE-21",
+            "path": "D:/open_jdk/grallvm_jdk/graalvm-jdk-21.0.7+8.1"
+        }
+    ],
+    "git.autofetch": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 2000
+}
