@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>XenoAudio</h4>
+    <h1>VS Code Config</h4>
 </div>
 
 A minimal and personalized Visual Studio Code setup focusing on the settings.json file. This configuration enhances the developer experience with customized editor preferences designed for consistency, performance, and productivity.
