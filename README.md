@@ -3,9 +3,9 @@
 </div>
 
 ## 📷 Preview
-![Fullscreen](https://github.com/user-attachments/assets/6db6e132-5b98-4ce6-86f3-bb3029c6915d)
-![Windowed](https://github.com/user-attachments/assets/b952b1c7-7ab3-419c-ac30-ffbbdf57b229)
-![split editor](https://github.com/user-attachments/assets/b9585b46-e514-40a6-9c28-09ba1352ece5)
+![fullscreen](https://github.com/user-attachments/assets/ade25642-89f9-4eb0-9237-498e24f9c382)
+![windowed](https://github.com/user-attachments/assets/c99f2e51-30bc-4d18-8e42-80a0bccc9130)
+![split-editor](https://github.com/user-attachments/assets/cabbacc5-5d22-4234-8f5f-0a0717fd3607)
 <br></br>
 A minimal and personalized Visual Studio Code setup focusing on the settings.json file. This configuration enhances the developer experience with customized editor preferences designed for consistency, performance, and productivity.
 
