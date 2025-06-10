@@ -23,7 +23,7 @@ To achieve the full visual and functional effect shown in the preview, please in
 ## 🔤 Required Fonts
 
 To achieve the exact font rendering as seen in the preview, make sure the following fonts are installed on your system:
-1. 🧬 Fira Code – [Download here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraMono.zip) (for ligatures and modern code style)
+1. 🧬 Fira Code – [Download here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/FiraCode.zip) (for ligatures and modern code style)
 2. 💻 JetBrains Mono – [Download here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/JetBrainsMono.zip) (excellent readability and aesthetics)
 3. 🔡 Source Code Pro Nerd Font – [Download here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/SourceCodePro.zip) (Adobe’s developer font, patched with Nerd Font glyphs)
 4. 📝 Roboto Mono Nerd Font – [Download here](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/RobotoMono.zip) (Clean and modern monospace, patched with icons)
