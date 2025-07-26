@@ -1,17 +1,26 @@
 {
-    "workbench.colorTheme": "Anysphere Modern",
+    //* Animation
     "animations.Install-Method": "Custom UI Style",
-    "glassit.alpha": 255, // Ctrl+Alt+Z, Ctrl+Alt+C
-    "workbench.iconTheme": "material-icon-theme",
     "custom-ui-style.external.imports": [
         "file:///c:/Users/Syahril/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.7/dist/updateHandler.js"
     ],
-    "editor.minimap.enabled": false,
+
+    //* Theme and Icon
+    "workbench.colorTheme": "Anysphere Modern",
+    "workbench.iconTheme": "material-icon-theme",
+    
+    //* glassit (blur)
+    "glassit.alpha": 255, // Ctrl+Alt+Z, Ctrl+Alt+C
+    
+    //* Font
     "editor.fontSize": 14,
     "editor.fontLigatures": true,
-
+    "editor.fontFamily": "FiraCode Nerd Font, Hack Nerd Font, SauceCodePro Nerd Font, RobotoMono Nerd Font, JetBrainsMono Nerd Font",
+    
     //* Important settings
     // "window.zoomLevel": 0.5,
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
     "window.commandCenter": false,
     "workbench.layoutControl.enabled": false,
     "chat.commandCenter.enabled": false,
@@ -23,9 +32,15 @@
 
     //* Bottom
     "workbench.statusBar.visible": false,
-    "editor.fontFamily": "FiraCode Nerd Font, Hack Nerd Font, SauceCodePro Nerd Font, RobotoMono Nerd Font, JetBrainsMono Nerd Font",
-    "editor.stickyScroll.enabled": false,
+
+    //* Auto save
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 2000,
+
+    //* Format On Paste
     "editor.formatOnPaste": true,
+
+    //* Java 
     "redhat.telemetry.enabled": true,
     "java.configuration.runtimes": [
         {
@@ -35,6 +50,4 @@
     ],
     "git.autofetch": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "files.autoSave": "afterDelay",
-    "files.autoSaveDelay": 2000
 }
