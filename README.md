@@ -39,6 +39,8 @@ For a more visually refined and modern look (as seen in the preview), you may op
 To complete the overall aesthetic, I also use a custom wallpaper that blends well with the transparent VS Code setup:
 1. 🧊 [Aurora Dotfiles Hyprland](https://github.com/flickowoa/dotfiles/tree/aurora/config/hypr/wallpapers)
 > 💡 This is the wallpaper I currently use with my VS Code theme. I discovered it from a Hyprland rice called [Aurora Dotfiles](https://github.com/flickowoa/dotfiles/tree/aurora), and it matches perfectly with the soft, bluish tones of the UI.
+2. 🌫️ [walls](https://github.com/dharmx/walls/blob/main/fogsmoke/a_foggy_forest_with_trees_05.jpg)
+> 💡 This is a wallpaper I often use with VS Code. The original image comes from Wallpaper Engine; I found a copy in the **walls** repository by dharmx.
 
 ## 🎯 Purpose
 This repository serves as a portable, version-controlled configuration for Visual Studio Code. Perfect for syncing your environment across devices or sharing a trusted setup with teammates.
