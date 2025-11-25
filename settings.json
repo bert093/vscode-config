@@ -1,4 +1,9 @@
 {
+    //* CodeSnap
+    "codesnap.backgroundColor": "transparent",
+    "codesnap.boxShadow": "transparent",
+    "codesnap.realLineNumbers": true,
+
     //* Animation
     "animations.Install-Method": "Custom UI Style",
     "custom-ui-style.external.imports": [
@@ -9,7 +14,7 @@
     "workbench.colorTheme": "Anysphere Modern",
     "workbench.iconTheme": "material-icon-theme",
     
-    //* glassit (blur)
+    //* glassit (transparent)
     "glassit.alpha": 255, // Ctrl+Alt+Z, Ctrl+Alt+C
     
     //* Font
@@ -27,6 +32,8 @@
     "chat.commandCenter.enabled": false,
     "window.menuBarVisibility": "compact",
     "window.title": "${activeEditorShort}",
+    "terminal.integrated.shellIntegration.enabled": false,
+    "terminal.integrated.suggest.enabled": false, // its laggy
 
     //* Left side
     "workbench.activityBar.location": "hidden",
@@ -50,5 +57,5 @@
         }
     ],
     "git.autofetch": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
