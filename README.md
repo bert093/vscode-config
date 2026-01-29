@@ -50,11 +50,17 @@ Python - By Microsoft: code --install-extension ms-python.python
 Tailwind CSS IntelliSense - By Tailwind Labs: code --install-extension bradlc.vscode-tailwindcss
 Tailwind Docs - By Austen Cameron: code --install-extension austenc.tailwind-docs
 VSCode Animations - By Brandon Kirbyson: code --install-extension BrandonKirbyson.vscode-animations
+ESLint - By Microsoft: code --install-extension dbaeumer.vscode-eslint
+Live Share - By Microsoft: code --install-extension MS-vsliveshare.vsliveshare
+Live Preview - By Microsoft: code --install-extension ms-vscode.live-server
+HTML CSS Support - By ecmel: code --install-extension ecmel.vscode-html-css
+YAML - By Red Hat: code --install-extension redhat.vscode-yaml
+Remote - SSH - By Microsoft: code --install-extension ms-vscode-remote.remote-ssh
 
 > [!NOTE]
 > You can uninstall it if you don't want it!.
 ```
-code --install-extension aaron-bond.better-comments --install-extension alefragnani.Bookmarks --install-extension formulahendry.code-runner --install-extension adpyke.codesnap --install-extension Dart-Code.dart-code --install-extension Dart-Code.flutter --install-extension usernamehw.errorlens --install-extension circlecodesolution.ccs-flutter-color --install-extension marcelovelasquez.flutter-tree --install-extension alexisvt.flutter-snippets --install-extension evan-buss.font-switcher --install-extension eamodio.gitlens --install-extension s-nlf-fh.glassit --install-extension shd101wyy.markdown-preview-enhanced --install-extension PKief.material-icon-theme --install-extension Cardinal90.multi-cursor-case-preserve --install-extension zhucy.project-tree --install-extension ms-python.python --install-extension bradlc.vscode-tailwindcss --install-extension austenc.tailwind-docs --install-extension BrandonKirbyson.vscode-animations --install-extension subframe7536.custom-ui-style
+code --install-extension aaron-bond.better-comments --install-extension alefragnani.Bookmarks --install-extension formulahendry.code-runner --install-extension adpyke.codesnap --install-extension Dart-Code.dart-code --install-extension Dart-Code.flutter --install-extension usernamehw.errorlens --install-extension circlecodesolution.ccs-flutter-color --install-extension marcelovelasquez.flutter-tree --install-extension alexisvt.flutter-snippets --install-extension evan-buss.font-switcher --install-extension eamodio.gitlens --install-extension s-nlf-fh.glassit --install-extension shd101wyy.markdown-preview-enhanced --install-extension PKief.material-icon-theme --install-extension Cardinal90.multi-cursor-case-preserve --install-extension zhucy.project-tree --install-extension ms-python.python --install-extension bradlc.vscode-tailwindcss --install-extension austenc.tailwind-docs --install-extension BrandonKirbyson.vscode-animations --install-extension subframe7536.custom-ui-style --install-extension dbaeumer.vscode-eslint --install-extension MS-vsliveshare.vsliveshare --install-extension ms-vscode.live-server --install-extension ecmel.vscode-html-css --install-extension redhat.vscode-yaml --install-extension ms-vscode-remote.remote-ssh
 ```
 
 </details>
