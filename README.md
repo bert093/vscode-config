@@ -7,6 +7,10 @@
 ![windowed](https://github.com/user-attachments/assets/c99f2e51-30bc-4d18-8e42-80a0bccc9130)
 ![split-editor](https://github.com/user-attachments/assets/cabbacc5-5d22-4234-8f5f-0a0717fd3607)
 <br></br>
+
+> [!TIP]
+> [Check here](shortcut/README.md) to see the vscode shortcut.
+
 A minimal and personalized Visual Studio Code setup focusing on the settings.json file. This configuration enhances the developer experience with customized editor preferences designed for consistency, performance, and productivity.
 
 ## What's Inside?
