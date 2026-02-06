@@ -10,4 +10,4 @@
 > - ctrl + alt + b (toggle secondary side bar, default -> chat with ai agent)
 > - ctrl + j (toggle panel / join lines)
 > - ctrl + b (toggle primary sidebar)
-> - ctrl + . (open vscode settings)
+> - ctrl + , (open vscode settings)
