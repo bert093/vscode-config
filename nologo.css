@@ -1,0 +1,13 @@
+.window-appicon {
+  visibility: hidden;
+}
+
+.titlebar-center > .window-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.titlebar-right {
+  visibility: hidden;
+}
